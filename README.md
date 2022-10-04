@@ -6,7 +6,7 @@ Node/Express API RESTful endpoints that return first names. This was a short pro
 2. Run `npm i` in the terminal to install modules.
 
 # Build
-1. Run `npm run start` in the terminal.
+1. Run `npm start` in the terminal.
 2. Open your browser and go to localhost:3000.
 - To get all names enter localhost:3000/names
 - To get specific names enter localhost:3000/names/{yourNameInput}
